@@ -1,0 +1,4 @@
+LIBRARY	"wuygDll"  //DLL文件名
+EXPORTS
+wuygFun @ 1        //导出函数名以及序号
+
